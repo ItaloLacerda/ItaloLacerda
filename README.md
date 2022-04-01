@@ -16,7 +16,7 @@
   
 </div>
 
-
+##
 <div align="center">
   
   <a href="https://github.com/ItaloLacerda">
@@ -24,7 +24,12 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloLacerda&layout=compact&langs_count=7&theme=dracula"/>
     </div>
 
-  <div>
-     <a href="https://www.linkedin.com/in/italo-lacerda-7421741b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      
+  ##
+  
+  <div style="display: inline-block">
+    <a href="https://www.linkedin.com/in/italo-lacerda-7421741b1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send?phone=5581994786752&text=Precisa%20De%20Ajuda%20Com%20Algo%20S%C3%B3%20Falar%20%E2%9C%8C%F0%9F%98%89" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="mailto:italojose917@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/_i.lacerda_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+       
   </div>
