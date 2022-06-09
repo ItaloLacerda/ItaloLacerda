@@ -1,7 +1,5 @@
 ### Prazer, Italo Lacerda ✌👋
 
-- 🔭 Estou Procurando um Job Como Dev Front-End Junior
-- 🌱 Estou Aprendendo Reacth
 - 😄 Pronouns: Ele/Dele
 - ⚡ Curiosidade: Tinha Uma Banda De Forro Na Adolescência Com Uns Amigos e Já Vendi Picole Na Praia Dos Meus 12 Aos 21 Anos
 
